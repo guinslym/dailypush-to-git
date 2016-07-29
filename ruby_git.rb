@@ -2,7 +2,7 @@ require 'rubygems'
 require 'git'
 
 
-open('example.txt', 'a') { |f|
+open('README.txt', 'a') { |f|
   f.puts "."
 }
 
